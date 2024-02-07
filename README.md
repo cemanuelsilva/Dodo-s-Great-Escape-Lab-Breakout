@@ -1,18 +1,16 @@
 # Dodo's Great Escape: Lab Breakout
 
-![Dodo's Great Escape Logo]()
+![Dodo's Great Escape Logo](assets/Dodo's_Logo.png)
 
 Step into the feathery shoes of a plucky hero in "Dodo's Great Escape: Lab Breakout". You are Dodo, the last of your kind, brought back to life by brilliant scientists in a daring experiment. But life in the laboratory is no place for a free spirit like you. It's time to spread your wings and make a great escape!
 
 ## Features
 
-![Gameplay Screenshot]()
-
 🏃 **No Second Chances:** Be on the edge of your feathers because there's no room for error. One hit and you're out! Can you master precision and perfect your timing to dodge perilous traps and cunning adversaries?
 
-## Controllers
+![Gameplay Screenshot](assets/Picture2.png)
 
-![Controller Layout]()
+## Controllers
 
 - **WASD / Arrows:** Move
 - **Spacebar / C:** Jump
