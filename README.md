@@ -2,6 +2,8 @@
 
 ![Dodo's Great Escape Logo](assets/Dodo's_Logo.png)
 
+## Description
+
 Step into the feathery shoes of a plucky hero in "Dodo's Great Escape: Lab Breakout". You are Dodo, the last of your kind, brought back to life by brilliant scientists in a daring experiment. But life in the laboratory is no place for a free spirit like you. It's time to spread your wings and make a great escape!
 
 ## Features
